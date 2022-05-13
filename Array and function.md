@@ -11,7 +11,7 @@ using namespace std;
 		// Display the values of Arrays 
 		cout << "\n The Array  is populated with values \n ";
 		
-		for ( i = 0; i < 10; i++)
+		for ( i = 0; i < 10; i++){
 		cout << "num [ " << i << " ] = " << num [ i ] << '\n';
 		
 		}

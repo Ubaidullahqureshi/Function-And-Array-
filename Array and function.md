@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 	void getvalues ( int [ ] , int );
-	int main(){
+	int main()
+	{
 		int num [ 10 ] , i;
 			
 		//Function call, passing Array num

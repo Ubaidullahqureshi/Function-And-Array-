@@ -12,7 +12,8 @@ using namespace std;
 		cout << "\n The Array  is populated with values \n ";
 		
 		for ( i = 0; i < 10; i++){
-		cout << "num [ " << i << " ] = " << num [ i ] << '\n';
+		
+			cout << "num [ " << i << " ] = " << num [ i ] << '\n';
 		
 		}
 								 

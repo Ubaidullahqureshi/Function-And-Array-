@@ -26,5 +26,8 @@ using namespace std;
 		{
 				num [ i ] = i;
 			}
+	
+		return 0;
+	
 		}
 		

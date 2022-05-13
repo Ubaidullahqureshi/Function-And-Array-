@@ -18,7 +18,8 @@ using namespace std;
 		}
 								 
 		
-		void getvalues ( int num [ ] , int arraysize){
+		void getvalues ( int num [ ] , int arraysize)
+		{
 			int i;
 			
 			for ( i = 0; i < arraysize; i++ )

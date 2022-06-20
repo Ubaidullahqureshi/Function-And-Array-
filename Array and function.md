@@ -17,14 +17,19 @@
 		int num [ 10 ] , i;
 			
 		//Function call, passing Array num
+		
 		getvalues ( num , 10 );
 			
+		
 		// Display the values of Arrays 
+		
 		cout << "\n The Array  is populated with values \n ";
+		
 		
 		for ( i = 0; i < 10; i++){
 		
-			cout << "num [ " << i << " ] = " << num [ i ] << '\n';
+		
+		cout << "num [ " << i << " ] = " << num [ i ] << '\n';
 		
 		}
 								 
